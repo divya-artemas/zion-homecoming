@@ -1,0 +1,170 @@
+@media screen and (min-width:200px) and (max-width:1024px) {
+    body {
+        font-size: 85%;
+    }
+    .chance {
+        padding: 15px;
+        margin: 20px 0;
+		    border-bottom-right-radius: 60px;
+    border-bottom-left-radius: 60px;
+    }
+	p { 
+    line-height: 1.2;
+    font-size: 1.1em; 
+}
+	.pw-section ul li iframe {
+    width: 100%!important;
+    height: 190px!important;
+}
+	.pw-section ul li {
+    text-align: center;
+    width: 100%;
+}
+		video {
+		height: 130px;
+	}
+	audio {
+    width: 100%;
+}
+	.col-md-8.pt-5.mt-5.offset-2.text-left {
+    margin: 0!important;
+    padding-top: 0!important;
+}
+	.maestros img {
+    width: 100%;
+    border-radius: 25px;
+    margin: 20px 0 0 0;
+    display: block;
+}
+	.mob-text {
+		display:none;
+	}
+	.call-to-action-header img {
+       width: 17px;
+    transform: translateY(4px);
+}
+	.call-to-action-header a {
+	color:#fff;
+	transform: translate(10px, 5px);
+    display: inline-block;
+	font-size:16px; 
+		vertical-align:top;
+}
+	.call-to-action-header {
+		padding:0;
+	}
+	.footer h5 { 
+    padding: 0 0 200px 0;
+}
+	.user .chance h3 { 
+		font-size: 1.5em; 
+		font-weight: 400;
+		padding: 0 0 20px 0;
+}
+	.page-template-template-poll .block-three h2 {
+		font-size: 4em;
+		color: #245024;
+	}
+	.set input[type="checkbox"] {
+		margin: 0 0 0 0;
+	}
+	.page-template-template-poll .block-three h2 {
+		font-size: 3em;
+		color: #245024;
+	}
+    .block-three h2 {
+        font-size: 4em;
+        color: #245024;
+    }
+
+    .chance h3 {
+        font-size: 1.5em;
+    }
+
+    .time-line {
+        padding: 50px 0;
+        background: #fff;
+    }
+
+    .time-line h3 {
+        padding: 30px 0 50px 0;
+        font-size: 2.5em;
+    }
+
+    .footer h4 span {
+        color: #f59a1b;
+        font-size: 2em;
+    }
+
+    h3 {
+        padding: 10px 0 0 0;
+    }
+
+    .block-three:last-child {
+        border: 0;
+        padding: 40px 0 50px 0;
+    }
+
+    form.text-left {
+        padding: 0 0 50px 0;
+    }
+
+    .thank-you .chance { 
+        padding: 25px 0;
+        margin: 50px 0; 
+    }
+	
+	.on-submit {
+    width: 100%;
+    height: 100vh;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    font-size: 1.8em;
+    background: #f5f2eaf0 url(../img/loading-gif.gif) no-repeat 50% 80% /20%;
+    position: fixed;
+    z-index: 5;
+    text-align: center;
+    padding: 25px;
+    line-height: 1.201;
+}
+	
+	.email_val a {
+    display: block;
+    margin: 10px 0;
+}
+.email_val {
+  
+    display: flex;
+    flex-wrap: wrap; 
+}
+}
+
+@media screen and (min-width:200px) and (max-width:770px) {
+  
+	.reverse {
+		-webkit-box-orient: vertical !important;
+		-webkit-box-direction: reverse !important;
+		-ms-flex-direction: column-reverse !important;
+		flex-direction: column-reverse !important;
+	}
+}
+@media screen and (min-width:684px) and (max-width:1024px) {
+    body {
+        font-size: 85%;
+    }
+
+
+
+}
+
+@media screen and (min-width:1024px) and (max-width:1500px) {
+
+    body {
+        font-size: 85%;
+    }
+
+
+
+}
